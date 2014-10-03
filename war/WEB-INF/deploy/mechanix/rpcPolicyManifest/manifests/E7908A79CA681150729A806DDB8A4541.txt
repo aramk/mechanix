@@ -1,0 +1,2 @@
+serviceClass: au.edu.unimelb.csse.mugle.client.api.UserService
+path: 585DADA86A167B3AC3E0174F39285092.gwt.rpc

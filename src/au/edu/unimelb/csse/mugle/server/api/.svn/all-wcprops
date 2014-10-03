@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/groups/smd_2011_sm1_g_7/!svn/ver/323/Mechanix/src/au/edu/unimelb/csse/mugle/server/api
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/groups/smd_2011_sm1_g_7/!svn/ver/14/Mechanix/src/au/edu/unimelb/csse/mugle/server/api/UserServiceImpl.java
+END
+UserBadge.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/groups/smd_2011_sm1_g_7/!svn/ver/323/Mechanix/src/au/edu/unimelb/csse/mugle/server/api/UserBadge.java
+END
+GameToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/groups/smd_2011_sm1_g_7/!svn/ver/323/Mechanix/src/au/edu/unimelb/csse/mugle/server/api/GameToken.java
+END
+HighScoreServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/groups/smd_2011_sm1_g_7/!svn/ver/323/Mechanix/src/au/edu/unimelb/csse/mugle/server/api/HighScoreServiceImpl.java
+END
+KeyValueServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/groups/smd_2011_sm1_g_7/!svn/ver/323/Mechanix/src/au/edu/unimelb/csse/mugle/server/api/KeyValueServiceImpl.java
+END
+BadgeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/groups/smd_2011_sm1_g_7/!svn/ver/323/Mechanix/src/au/edu/unimelb/csse/mugle/server/api/BadgeServiceImpl.java
+END

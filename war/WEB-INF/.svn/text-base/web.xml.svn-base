@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>UserService</servlet-name>
+    <servlet-class>au.edu.unimelb.csse.mugle.server.api.UserServiceImpl</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>UserService</servlet-name>
+    <url-pattern>/mugle/api-user</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>KeyValueService</servlet-name>
+    <servlet-class>au.edu.unimelb.csse.mugle.server.api.KeyValueServiceImpl</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>KeyValueService</servlet-name>
+    <url-pattern>/mugle/api-keyvalue</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>BadgeService</servlet-name>
+    <servlet-class>au.edu.unimelb.csse.mugle.server.api.BadgeServiceImpl</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>BadgeService</servlet-name>
+    <url-pattern>/mugle/api-badge</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>HighScoreService</servlet-name>
+    <servlet-class>au.edu.unimelb.csse.mugle.server.api.HighScoreServiceImpl</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>HighScoreService</servlet-name>
+    <url-pattern>/mugle/api-highscore</url-pattern>
+  </servlet-mapping>
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>Mechanix.html</welcome-file>
+  </welcome-file-list>
+
+</web-app>

@@ -1,0 +1,83 @@
+10
+
+dir
+335
+http://svn.informatics.unimelb.edu.au/groups/smd_2011_sm1_g_7/Mechanix/src/au/edu/unimelb/csse/smd/mechanix/client
+http://svn.informatics.unimelb.edu.au/groups/smd_2011_sm1_g_7
+
+
+
+2011-07-26T13:59:36.577446Z
+334
+aramk
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+864b5e4c-a044-4e7b-a2ec-b383bd65349d
+
+Mechanix.java
+file
+
+
+
+
+2011-10-22T04:01:27.000000Z
+71a1e0342c921041b2cc179c647e3444
+2011-05-23T06:56:03.725858Z
+323
+aramk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+471
+
+level
+dir
+
+model
+dir
+
+server
+dir
+
+stage
+dir
+
+text
+dir
+
+util
+dir
+
+view
+dir
+
